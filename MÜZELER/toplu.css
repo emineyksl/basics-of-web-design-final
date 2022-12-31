@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container .navbar{
+    width: 100%;
+height: 10%;
+background-color:rgba(224, 135, 0);
+
+}
+.navbar .müze{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 15px;
+
+}
+.navbar .müze a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(94, 16, 16) ;
+    font-weight: 10px;
+}
+
+
+
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+}
+.navbar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    padding:  1px;
+    user-select:none;
+  
+    
+}
+
+            h1{
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                color:  rgb(104, 4, 4);
+                text-align: center;
+                font-size: 40px;
+                margin: 50px 0px 50px 0px;
+                background-color:rgba(165, 104, 24, 0.753);
+                border-radius: 50px 0px 50px 00px;
+                user-select:none;
+            }
+
+ p {
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(77, 76, 76);
+                margin-left: 50px;
+                margin-right: 50px;
+                text-align: left;
+                font-size: 15px;
+                font-weight: bolder;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    width: 40%;
+    height: 500%;
+    background-color: aquamarine;
+    border-radius: 30px 30px 30px 30px;
+   
+}
+.table1 table{
+
+    margin-right: auto;
+   
+}
+.table2 table{
+    margin-right: auto;
+   
+}
+body{
+    background-color:rgba(224, 160, 76, 0.877);
+      background-image: url[];
+  }
+
+p strong{
+
+    margin-left: 0px;
+    color: #000;
+}
+
+.konum{
+    text-align: left;
+    font-size: 17px;
+    color:rgb(85, 62, 26);
+    margin-top: 10px;
+    
+}
+.harita{
+    margin-top: 10px;
+}
+
